@@ -78,6 +78,6 @@
 ![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/05.jpeg)
 
 # Powerful sorting options in real time
-![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/06.jpg)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/06.jpeg)
 
 
