@@ -55,7 +55,10 @@
   - Custom modal window
   - Custom .geojson
   - And many more
- 
+
+# Apple Store: https://apps.apple.com/app/earthquake-hub/id6472878361
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/appStore.png)
+
 # Video
 [![Watch the video](https://img.youtube.com/vi/cTDfnKFlvP4/maxresdefault.jpg)](https://youtu.be/cTDfnKFlvP4)
 
