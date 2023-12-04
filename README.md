@@ -65,7 +65,7 @@
 # Unique features in one tap for your safety
 ![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/01.jpeg)
 
-# Viewing tectonic plates with on/off
+# Viewing tectonic plates with on/off options
 ![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/02.jpeg)
 
 # Realm time search on the map
@@ -78,6 +78,6 @@
 ![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/05.jpeg)
 
 # Powerful sorting options in real time
-![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/6.jpg)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/06.jpg)
 
 
