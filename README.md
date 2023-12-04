@@ -60,21 +60,21 @@
 [![Watch the video](https://img.youtube.com/vi/cTDfnKFlvP4/maxresdefault.jpg)](https://youtu.be/cTDfnKFlvP4)
 
 # Unique features in one tap for your safety
-![Иллюстрация к проекту](https://github.com/Quasaryy//EarthquakeHub/blob/main/1new.png)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/01.jpeg)
 
 # Viewing tectonic plates with on/off
-![Иллюстрация к проекту](https://github.com/Quasaryy//EarthquakeHub/blob/main/2new.png)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/02.jpeg)
 
 # Realm time search on the map
-![Иллюстрация к проекту](https://github.com/Quasaryy//EarthquakeHub/blob/main/3new.png)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/03.jpeg)
 
 # Sort earthquakes by magnitude in real time
-![Иллюстрация к проекту](https://github.com/Quasaryy//EarthquakeHub/blob/main/4new.png)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/04.jpeg)
 
 # Real time table view with many sorting options
-![Иллюстрация к проекту](https://github.com/Quasaryy//EarthquakeHub/blob/main/5new.png)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/05.jpeg)
 
 # Powerful sorting options in real time
-![Иллюстрация к проекту](https://github.com/Quasaryy//EarthquakeHub/blob/main/6new.png)
+![Иллюстрация к проекту](https://github.com/Quasaryy/EarthquakeHub/blob/main/6.jpg)
 
 
